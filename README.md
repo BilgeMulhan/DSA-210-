@@ -91,8 +91,11 @@ Import greenhouse gas emissions and cosmetic industry data into a Pandas DataFra
 Use scatter plots, heatmaps, and time series plots to explore relationships between greenhouse gas emissions, cosmetic industry data, and global temperature trends.
 
 **Examples include:**
+
 **Scatter plot** of carbon emissions from cosmetic products vs. global temperature changes
+
 **Heatmap** showing correlations between cosmetic ingredients and greenhouse gas levels
+
 **Time series plot** comparing historical CO₂ levels and temperature anomalies over time
 
 3. **Hypothesis Testing**
