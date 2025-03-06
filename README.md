@@ -98,6 +98,7 @@ Use scatter plots, heatmaps, and time series plots to explore relationships betw
 
 **Time series plot** comparing historical CO₂ levels and temperature anomalies over time
 
+
 3. **Hypothesis Testing**
 
 **Test hypotheses like:**
@@ -105,6 +106,7 @@ Use scatter plots, heatmaps, and time series plots to explore relationships betw
 - H₁ (Alternative Hypothesis): Chemicals in cosmetic products significantly contribute to greenhouse gas emissions.
 
 Run regression analysis to determine whether there is a significant relationship between cosmetic industry emissions and climate change.
+
 
 4. **Trend Analysis**
 
