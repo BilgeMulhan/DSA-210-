@@ -122,3 +122,17 @@ Another example involves comparing **conventional cosmetics with eco-friendly al
 Similarly, I’ll examine **greenhouse gas emission trends over time** to see if regulatory policies or industry sustainability efforts have resulted in a decline in emissions. For example, if emissions from the cosmetics industry **decrease following stricter environmental policies, this could indicate that regulations are effective in reducing climate impact.**
 
 
+## **Conclusion**
+By the end of this project, I hope to answer the following questions:
+
+- How do cosmetic product emissions contribute to greenhouse gas levels?
+
+- Is there a measurable correlation between the cosmetics industry and global warming trends?
+
+- Can sustainable alternatives significantly reduce the environmental impact of personal care products?
+  
+- How can these insights be applied to encourage more eco-friendly consumer choices?
+  
+This project isn’t just about analyzing emissions from cosmetics; it’s about leveraging data science to gain a deeper understanding of environmental sustainability. Whether in the beauty industry or other sectors, data-driven insights can help shape more responsible production and consumption habits to mitigate climate change.
+
+
