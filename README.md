@@ -62,3 +62,45 @@ By analyzing data from environmental agencies and industry reports, I hope to:
 - Identify key contributors within the cosmetics industry that have the highest environmental impact.
 - Gain actionable insights into how switching to sustainable cosmetics could reduce greenhouse gas emissions and mitigate climate change.
 
+---
+
+## Tools and Technologies
+
+I will rely on the following tools for data analysis and visualization in this project:
+
+-**Python:** For data cleaning, preprocessing, and statistical analysis
+-**Pandas:** To manipulate and process environmental and industry emission data
+-**Matplotlib and Seaborn:** For visualizing trends in greenhouse gas emissions, temperature changes, and industry impact (scatter plots, heatmaps, time series)
+-**SciPy:** For hypothesis testing and correlation analysis between cosmetic-related emissions and climate change
+-**Scikit-learn:** For implementing regression models and predicting emission trends
+-**Jupyter Notebook:** For organizing and presenting analyses in an interactive environment
+
+---
+
+## Analysis Plan
+
+1.**Data Collection**
+Import greenhouse gas emissions and cosmetic industry data into a Pandas DataFrame and preprocess the dataset by handling missing values and standardizing units.
+
+2.**Visualization**
+Use scatter plots, heatmaps, and time series plots to explore relationships between greenhouse gas emissions, cosmetic industry data, and global temperature trends.
+
+**Examples include:**
+**Scatter plot** of carbon emissions from cosmetic products vs. global temperature changes
+**Heatmap** showing correlations between cosmetic ingredients and greenhouse gas levels
+**Time series plot** comparing historical CO₂ levels and temperature anomalies over time
+
+3.**Hypothesis Testing**
+
+**Test hypotheses like:**
+- H₀ (Null Hypothesis): Cosmetic products have no significant impact on greenhouse gas emissions.
+- H₁ (Alternative Hypothesis): Chemicals in cosmetic products significantly contribute to greenhouse gas emissions.
+
+Run regression analysis to determine whether there is a significant relationship between cosmetic industry emissions and climate change.
+
+4.**Trend Analysis**
+
+- Investigate patterns in greenhouse gas emissions over time, identifying key contributors from the cosmetics industry.
+- Analyze how sustainability efforts and eco-friendly alternatives impact emissions reduction trends.
+
+
