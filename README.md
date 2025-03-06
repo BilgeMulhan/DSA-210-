@@ -25,15 +25,24 @@ Utilize data science techniques to analyze emissions data, climate trends, and i
 ## **Description of Dataset**
 The dataset for this project consists of records on greenhouse gas emissions and cosmetic industry data collected over several months. Here’s what I’ll be tracking:
 
-**Date:** The specific day of the recorded emissions data
-**Greenhouse Gas Emissions:** Total CO₂, CH₄, and other greenhouse gas emissions (measured in metric tons) from the cosmetics industry
-**Cosmetic Product Category:** Type of cosmetic product (e.g., skincare, haircare, perfumes, sprays)
-**Volatile Organic Compounds (VOCs):** Amount of VOCs released from cosmetic products (measured in micrograms per liter)
-**Aerosol Usage:** Frequency of aerosol-based product usage and its estimated emissions impact
-**Sustainability Rating:** Eco-friendliness score of products based on sustainability reports (scale of 1–10)
-**Brand Carbon Footprint:** Estimated carbon footprint of different cosmetic brands based on public reports
-**Global Temperature Trends:** Historical temperature data corresponding to emission records
-**Regulatory Impact:** Presence of government policies or industry regulations affecting emission levels
+**Date:** 
+The specific day of the recorded emissions data
+**Greenhouse Gas Emissions:** 
+Total CO₂, CH₄, and other greenhouse gas emissions (measured in metric tons) from the cosmetics industry
+**Cosmetic Product Category:** 
+Type of cosmetic product (e.g., skincare, haircare, perfumes, sprays)
+**Volatile Organic Compounds (VOCs):** 
+Amount of VOCs released from cosmetic products (measured in micrograms per liter)
+**Aerosol Usage:** 
+Frequency of aerosol-based product usage and its estimated emissions impact
+**Sustainability Rating:** 
+Eco-friendliness score of products based on sustainability reports (scale of 1–10)
+**Brand Carbon Footprint:** 
+Estimated carbon footprint of different cosmetic brands based on public reports
+**Global Temperature Trends:** 
+Historical temperature data corresponding to emission records
+**Regulatory Impact:** 
+Presence of government policies or industry regulations affecting emission levels
 
 ---
 
@@ -43,7 +52,7 @@ Greenhouse gas emissions from various industries contribute significantly to cli
 
 By analyzing data from environmental agencies and industry reports, I hope to:
 
--**Understand the relationship between cosmetic product ingredients, greenhouse gas emissions, and global warming trends.
--**Identify key contributors within the cosmetics industry that have the highest environmental impact.
--**Gain actionable insights into how switching to sustainable cosmetics could reduce greenhouse gas emissions and mitigate climate change.
+-**Understand the relationship between cosmetic product ingredients, greenhouse gas emissions, and global warming trends.**
+-**Identify key contributors within the cosmetics industry that have the highest environmental impact.**
+-**Gain actionable insights into how switching to sustainable cosmetics could reduce greenhouse gas emissions and mitigate climate change.**
 
