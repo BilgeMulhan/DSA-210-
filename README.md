@@ -58,7 +58,7 @@ Presence of government policies or industry regulations affecting emission level
 Greenhouse gas emissions from various industries contribute significantly to climate change and global warming. However, the impact of the cosmetics industry on greenhouse gas emissions remains relatively unexplored. Understanding how different cosmetic ingredients and production processes contribute to atmospheric pollution may help in developing more sustainable consumption habits and eco-friendly product alternatives.
 
 By analyzing data from environmental agencies and industry reports, I hope to:
--Understand the relationship between cosmetic product ingredients, greenhouse gas emissions, and global warming trends.
--Identify key contributors within the cosmetics industry that have the highest environmental impact.
--Gain actionable insights into how switching to sustainable cosmetics could reduce greenhouse gas emissions and mitigate climate change.
+- Understand the relationship between cosmetic product ingredients, greenhouse gas emissions, and global warming trends.
+- Identify key contributors within the cosmetics industry that have the highest environmental impact.
+- Gain actionable insights into how switching to sustainable cosmetics could reduce greenhouse gas emissions and mitigate climate change.
 
