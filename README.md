@@ -119,6 +119,7 @@ Run regression analysis to determine whether there is a significant relationship
 
 **Example Analysis**
 
+
 To illustrate, I’ll create a scatter plot to visualize the relationship between greenhouse gas emissions from cosmetics and global temperature changes. The x-axis will represent carbon emissions (metric tons) from the cosmetics industry, and the y-axis will show global temperature anomalies (°C). If there is a clear upward trend, it might suggest a strong correlation between cosmetic-related emissions and climate change.
 
 Another example involves comparing **conventional cosmetics with eco-friendly alternatives.** By analyzing emission levels from **traditional vs. sustainable beauty products**, I can determine if switching to eco-friendly options significantly reduces carbon emissions.
