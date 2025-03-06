@@ -23,6 +23,7 @@ Utilize data science techniques to analyze emissions data, climate trends, and i
 ---
 
 ## **Description of Dataset**
+
 The dataset for this project consists of records on greenhouse gas emissions and cosmetic industry data collected over several months. Here’s what I’ll be tracking:
 
 **Date:** The specific day of the recorded emissions data
@@ -68,6 +69,7 @@ By analyzing data from environmental agencies and industry reports, I hope to:
 
 I will rely on the following tools for data analysis and visualization in this project:
 
+
 -**Python:** For data cleaning, preprocessing, and statistical analysis
 
 -**Pandas:** To manipulate and process environmental and industry emission data
@@ -85,9 +87,10 @@ I will rely on the following tools for data analysis and visualization in this p
 ## Analysis Plan
 
 1. **Data Collection**
+
 Import greenhouse gas emissions and cosmetic industry data into a Pandas DataFrame and preprocess the dataset by handling missing values and standardizing units.
 
-2. **Visualization**
+3. **Visualization**
 Use scatter plots, heatmaps, and time series plots to explore relationships between greenhouse gas emissions, cosmetic industry data, and global temperature trends.
 
 **Examples include:**
@@ -115,6 +118,7 @@ Run regression analysis to determine whether there is a significant relationship
 
 
 **Example Analysis**
+
 To illustrate, I’ll create a scatter plot to visualize the relationship between greenhouse gas emissions from cosmetics and global temperature changes. The x-axis will represent carbon emissions (metric tons) from the cosmetics industry, and the y-axis will show global temperature anomalies (°C). If there is a clear upward trend, it might suggest a strong correlation between cosmetic-related emissions and climate change.
 
 Another example involves comparing **conventional cosmetics with eco-friendly alternatives.** By analyzing emission levels from **traditional vs. sustainable beauty products**, I can determine if switching to eco-friendly options significantly reduces carbon emissions.
@@ -123,6 +127,7 @@ Similarly, I’ll examine **greenhouse gas emission trends over time** to see if
 
 
 ## **Conclusion**
+
 By the end of this project, I hope to answer the following questions:
 
 - How do cosmetic product emissions contribute to greenhouse gas levels?
@@ -132,6 +137,8 @@ By the end of this project, I hope to answer the following questions:
 - Can sustainable alternatives significantly reduce the environmental impact of personal care products?
   
 - How can these insights be applied to encourage more eco-friendly consumer choices?
+
+
   
 This project isn’t just about analyzing emissions from cosmetics; it’s about leveraging data science to gain a deeper understanding of environmental sustainability. Whether in the beauty industry or other sectors, data-driven insights can help shape more responsible production and consumption habits to mitigate climate change.
 
