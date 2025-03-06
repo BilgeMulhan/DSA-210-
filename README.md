@@ -9,15 +9,12 @@ In this project, I will analyze how cosmetics-related greenhouse gas emissions c
 The goal of this project is to analyze the impact of greenhouse gases in cosmetics on global warming by correlating data on cosmetic industry emissions and climate change indicators. This project aims to provide insights into how cosmetic product ingredients contribute to greenhouse gas emissions and may suggest sustainable alternatives to reduce their environmental impact.
 
 1.**Understand Environmental Impact:**
-
 Explore the relationship between cosmetic product ingredients, greenhouse gas emissions, and global warming, identifying how different chemicals contribute to atmospheric pollution.
 
 2.**Identify Main Contributors:**
-
 Pinpoint which cosmetic chemicals and production processes have the highest carbon footprint and assess their role in climate change acceleration.
 
 3.**Sustainable Alternatives:**
-
 Analyze eco-friendly cosmetic options and their potential to reduce greenhouse gas emissions, providing insights into more sustainable consumer choices.
 
 4.**Apply Data Science Skills:**
