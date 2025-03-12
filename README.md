@@ -119,7 +119,8 @@ Run regression analysis to determine whether there is a significant relationship
 - Analyze how sustainability efforts and eco-friendly transportation alternatives impact emissions reduction trends.
 
 
-**Example Analysis**
+**Example Analysis:**
+
 To illustrate, I’ll create a scatter plot to visualize the relationship between greenhouse gas emissions from transportation and global temperature changes. The x-axis will represent carbon emissions (metric tons) from the transportation sector, and the y-axis will show global temperature anomalies (°C). If there is a clear upward trend, it might suggest a strong correlation between transportation-related emissions and climate change.
 
 Another example involves comparing private car usage with public transportation. By analyzing emission levels from these two transport modes, I can determine if shifting to public transit significantly reduces carbon emissions.
