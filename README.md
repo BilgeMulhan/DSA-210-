@@ -6,6 +6,7 @@ In this project, I will analyze how tranportation-related greenhouse gas emissio
 
 ---
 
+
 ## Objectives
  The goal of this project is to analyze the impact of greenhouse gas emissions from different modes of transportation on global warming by correlating data on transportation emissions and climate change indicators. This project aims to provide insights into how transportation choices contribute to greenhouse gas emissions and may suggest sustainable alternatives to reduce their environmental impact.
 
@@ -20,6 +21,7 @@ Explore the relationship between transportation emissions, greenhouse gas emissi
 
 
 ---
+
 
 ## **Description of Dataset**
 
@@ -83,8 +85,10 @@ I will rely on the following tools for data analysis and visualization in this p
 
 ## Analysis Plan
 
+
 1. **Data Collection**
 Import greenhouse gas emissions and transportation industry data into a Pandas DataFrame and preprocess the dataset by handling missing values and standardizing units.
+
 
 
 2. **Visualization**
@@ -99,6 +103,7 @@ Use scatter plots, heatmaps, and time series plots to explore relationships betw
 **Time series plot** comparing historical CO₂ levels and temperature anomalies over time
 
 
+
 3. **Hypothesis Testing**
 
 **Test hypotheses like:**
@@ -108,9 +113,11 @@ Use scatter plots, heatmaps, and time series plots to explore relationships betw
 Run regression analysis to determine whether there is a significant relationship between transportation emissions and climate change.
 
 
+
 4. **Trend Analysis**
 - Investigate patterns in greenhouse gas emissions over time, identifying key contributors from the transportation sector.
 - Analyze how sustainability efforts and eco-friendly transportation alternatives impact emissions reduction trends.
+
 
 **Example Analysis**
 To illustrate, I’ll create a scatter plot to visualize the relationship between greenhouse gas emissions from transportation and global temperature changes. The x-axis will represent carbon emissions (metric tons) from the transportation sector, and the y-axis will show global temperature anomalies (°C). If there is a clear upward trend, it might suggest a strong correlation between transportation-related emissions and climate change.
@@ -126,10 +133,10 @@ Similarly, I’ll examine greenhouse gas emission trends over time to see if reg
 
 By the end of this project, I hope to answer the following questions:
 
--How do transportation emissions contribute to greenhouse gas levels?
--Is there a measurable correlation between the transportation sector and global warming trends?
--Can sustainable alternatives significantly reduce the environmental impact of transportation?
--How can these insights be applied to encourage more eco-friendly commuting and policy changes?
+- How do transportation emissions contribute to greenhouse gas levels?
+- Is there a measurable correlation between the transportation sector and global warming trends?
+- Can sustainable alternatives significantly reduce the environmental impact of transportation?
+- How can these insights be applied to encourage more eco-friendly commuting and policy changes?
 
 This project isn’t just about analyzing emissions from transportation; it’s about leveraging data science to gain a deeper understanding of environmental sustainability. Whether in public transit, private vehicle use, or air travel, data-driven insights can help shape more responsible transportation choices and mitigate climate change.
 
