@@ -3,8 +3,8 @@
 ## Project Overview
 In this project, I will analyze how tranportation-related greenhouse gas emissions contribute to global warming and climate change. The greenhouse gas impact in European countries where public transport is widespread and in the United States where private car use is widespread will be compared. My goal is to better understand the environmental impact of vehicles such as cars, planes, trains, public transportations and raise awareness that could help reduce emissions.
 
----
 
+---
 
 ## Objectives
  The goal of this project is to analyze the impact of greenhouse gas emissions from different modes of transportation on global warming by correlating data on transportation emissions and climate change indicators. This project aims to provide insights into how transportation choices contribute to greenhouse gas emissions and may suggest sustainable alternatives to reduce their environmental impact.
@@ -18,8 +18,8 @@ Explore the relationship between transportation emissions, greenhouse gas emissi
 
 4. **Apply Data Science Skills:** Utilize data science techniques to analyze emissions data, climate trends, and industry reports, applying the concepts learned in DSA 210 to a real-world environmental issue.
 
----
 
+---
 
 ## **Description of Dataset**
 
@@ -43,11 +43,10 @@ The dataset for this project consists of records on greenhouse gas emissions and
 
 **Regulatory Impact:** Presence of government policies or industry regulations affecting emission levels
 
-## Data Link: https://ourworldindata.org/co2-emissions-from-transport
+Data Link: https://ourworldindata.org/co2-emissions-from-transport
+
 
 ---
-
-
 
 ## **Motivation**
 
@@ -61,6 +60,7 @@ By analyzing data from environmental agencies and industry reports, I hope to:
 - Gain actionable insights into how switching to sustainable transportation could reduce greenhouse gas emissions and mitigate climate change.
 
 
+---
 
 ## Tools and Technologies
 
@@ -78,9 +78,8 @@ I will rely on the following tools for data analysis and visualization in this p
 
 -**Jupyter Notebook:** For organizing and presenting analyses in an interactive environment
 
+
 ---
-
-
 
 ## Analysis Plan
 
@@ -121,6 +120,7 @@ Another example involves comparing private car usage with public transportation.
 Similarly, I’ll examine greenhouse gas emission trends over time to see if regulatory policies or industry sustainability efforts have resulted in a decline in emissions. For example, if emissions from transportation decrease following stricter environmental policies, this could indicate that regulations are effective in reducing climate impact.
 
 
+---
 
 ## **Conclusion**
 
