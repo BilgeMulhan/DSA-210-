@@ -5,6 +5,7 @@ In this project, I will analyze how tranportation-related greenhouse gas emissio
 
 ---
 
+
 ## Objectives
  The goal of this project is to analyze the impact of greenhouse gas emissions from different modes of transportation on global warming by correlating data on transportation emissions and climate change indicators. This project aims to provide insights into how transportation choices contribute to greenhouse gas emissions and may suggest sustainable alternatives to reduce their environmental impact.
 
@@ -18,6 +19,7 @@ Explore the relationship between transportation emissions, greenhouse gas emissi
 4. **Apply Data Science Skills:** Utilize data science techniques to analyze emissions data, climate trends, and industry reports, applying the concepts learned in DSA 210 to a real-world environmental issue.
 
 ---
+
 
 ## **Description of Dataset**
 
@@ -46,6 +48,7 @@ The dataset for this project consists of records on greenhouse gas emissions and
 ---
 
 
+
 ## **Motivation**
 
 Greenhouse gas emissions from the transportation sector contribute significantly to climate change and global warming. Understanding how different transportation choices impact atmospheric pollution may help in developing more sustainable commuting habits and policies.
@@ -56,6 +59,7 @@ By analyzing data from environmental agencies and industry reports, I hope to:
 - Identify key contributors within the transportation sector that have the highest environmental impact.
 
 - Gain actionable insights into how switching to sustainable transportation could reduce greenhouse gas emissions and mitigate climate change.
+
 
 
 ## Tools and Technologies
@@ -75,6 +79,8 @@ I will rely on the following tools for data analysis and visualization in this p
 -**Jupyter Notebook:** For organizing and presenting analyses in an interactive environment
 
 ---
+
+
 
 ## Analysis Plan
 
@@ -113,6 +119,7 @@ To illustrate, I’ll create a scatter plot to visualize the relationship betwee
 Another example involves comparing private car usage with public transportation. By analyzing emission levels from these two transport modes, I can determine if shifting to public transit significantly reduces carbon emissions.
 
 Similarly, I’ll examine greenhouse gas emission trends over time to see if regulatory policies or industry sustainability efforts have resulted in a decline in emissions. For example, if emissions from transportation decrease following stricter environmental policies, this could indicate that regulations are effective in reducing climate impact.
+
 
 
 ## **Conclusion**
