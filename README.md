@@ -1,7 +1,7 @@
 # The Impact of Greenhouse Gases in Cosmetics on Global Warming
 
 ## Project Overview
-In this project, I will analyze how cosmetics-related greenhouse gas emissions contribute to global warming and climate change. My goal is to better understand the environmental impact of commonly used cosmetic products and raise awareness that could help reduce emissions.
+In this project, I will analyze how cosmetics-related greenhouse gas emissions contribute to global warming and climate change in Europe. My goal is to better understand the environmental impact of commonly used cosmetic products and raise awareness that could help reduce emissions.
 
 ---
 
