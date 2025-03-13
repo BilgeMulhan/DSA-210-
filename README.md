@@ -48,12 +48,12 @@ The main columns in the dataset include:
 **Regulatory Impact:** Presence of government policies or industry regulations affecting emission levels
 
 ---
-**United States:**
+## **United States:**
 ![image](https://github.com/user-attachments/assets/b9e94329-20a0-46f6-8bc7-67770305fc63)
 
 ---
 
-**Europe:**
+$## **Europe:**
 
 ![image](https://github.com/user-attachments/assets/dc874534-d786-4313-929d-5a999688fbfb)
 
