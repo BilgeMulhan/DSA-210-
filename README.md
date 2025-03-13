@@ -47,6 +47,9 @@ The main columns in the dataset include:
 
 **Regulatory Impact:** Presence of government policies or industry regulations affecting emission levels
 
+
+
+
 Data Link: https://ourworldindata.org/co2-emissions-from-transport
 
 
