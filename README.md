@@ -25,7 +25,9 @@ Explore the relationship between transportation emissions, greenhouse gas emissi
 
 ## **Description of Dataset**
 
-The dataset for this project consists of records on greenhouse gas emissions and transportation industry data collected over several months. Here’s what I’ll be tracking:
+The dataset for this project consists of transportation-related greenhouse gas emissions data collected over multiple years. The dataset provides insights into different transportation methods and their environmental impact, focusing on regional comparisons.
+
+The main columns in the dataset include:
 
 **Date:** The specific day of the recorded emissions data
 
