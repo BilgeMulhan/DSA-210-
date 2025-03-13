@@ -48,15 +48,23 @@ The main columns in the dataset include:
 **Regulatory Impact:** Presence of government policies or industry regulations affecting emission levels
 
 ---
-## **United States:**
-![image](https://github.com/user-attachments/assets/b9e94329-20a0-46f6-8bc7-67770305fc63)
+![image](https://github.com/user-attachments/assets/bd3d6bfd-3f93-4e6d-92bb-272edf720df4)
+![image](https://github.com/user-attachments/assets/8d03c806-4ec0-457e-a486-d8cbe32de4eb)
+![image](https://github.com/user-attachments/assets/aa4da4f4-4599-490c-bdc3-c03a8be9e532)
+![image](https://github.com/user-attachments/assets/6b86076d-3756-499d-9455-0bb188d078da)
+![image](https://github.com/user-attachments/assets/c85f32d8-168d-4867-9289-15172e1ef5ed)
+![image](https://github.com/user-attachments/assets/7fe6bb71-7f6b-4f96-af5b-98bac8fed3a1)
 
----
+**Query Parameters:**
 
-## **Europe:**
-
-![image](https://github.com/user-attachments/assets/dc874534-d786-4313-929d-5a999688fbfb)
-
+data_sources - source_ids[] - view data source id at https://www.climatewatchdata.org/api/v1/data/historical_emissions/data_sources
+gases - gas_ids[] - view gas id at https://www.climatewatchdata.org/api/v1/data/historical_emissions/gases
+sectors - sector_ids[] - view sector id at https://www.climatewatchdata.org/api/v1/data/historical_emissions/sectors
+regions - regions[] - region ISO code 3 (ISO Codes for World and European Union (27) are WORLD and EUU, respectively)
+start_year - start_year - Show results from this year onwards
+end_year - end_year - Show results up to this year
+sort_col - sort_col - column to sort the table by
+sort_dir - sort_dir - sort direction (ASC or DESC)
 
 
 
