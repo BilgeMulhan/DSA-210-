@@ -53,7 +53,7 @@ The main columns in the dataset include:
 
 ---
 
-$## **Europe:**
+## **Europe:**
 
 ![image](https://github.com/user-attachments/assets/dc874534-d786-4313-929d-5a999688fbfb)
 
