@@ -57,21 +57,21 @@ The main columns in the dataset include:
 
 **Query Parameters:**
 
-- data_sources - source_ids[] - view data source id at https://www.climatewatchdata.org/api/v1/data/historical_emissions/data_sources
-- 
-- gases - gas_ids[] - view gas id at https://www.climatewatchdata.org/api/v1/data/historical_emissions/gases
-- 
-- sectors - sector_ids[] - view sector id at https://www.climatewatchdata.org/api/v1/data/historical_emissions/sectors
-- 
-- regions - regions[] - region ISO code 3 (ISO Codes for World and European Union (27) are WORLD and EUU, respectively)
-- 
-- start_year - start_year - Show results from this year onwards
-- 
-- end_year - end_year - Show results up to this year
-- 
-- sort_col - sort_col - column to sort the table by
-- 
-- sort_dir - sort_dir - sort direction (ASC or DESC)
+**data_sources:** source_ids[] - view data source id at https://www.climatewatchdata.org/api/v1/data/historical_emissions/data_sources
+
+**gases:** - gas_ids[] - view gas id at https://www.climatewatchdata.org/api/v1/data/historical_emissions/gases
+
+**sectors:** - sector_ids[] - view sector id at https://www.climatewatchdata.org/api/v1/data/historical_emissions/sectors
+
+**regions:** - regions[] - region ISO code 3 (ISO Codes for World and European Union (27) are WORLD and EUU, respectively)
+
+**start_year:** - start_year - Show results from this year onwards
+
+**end_year:** - end_year - Show results up to this year
+
+**sort_col:** - sort_col - column to sort the table by
+
+**sort_dir:** - sort_dir - sort direction (ASC or DESC)
 
 
 
