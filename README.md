@@ -173,6 +173,34 @@ This project isn’t just about analyzing emissions from transportation; it’s 
 
 
 
+---
+### 🧪 Hypothesis Test Report
+
+**Hypothesis:**
+- H₀: No correlation between public transport ratio and emissions per public vehicle.
+- H₁: Significant correlation exists.
+
+**Significance Level:** α = 0.05
+
+---
+
+**USA (United States):**
+- Pearson r = -0.42, p = 0.017
+- Spearman ρ = -0.40, p = 0.021 
+→ H₀ is rejected. Significant negative relationship observed.
+
+**EU27:**
+- Pearson r = -0.19, p = 0.31 
+- Spearman ρ = -0.16, p = 0.39
+→ H₀ is not rejected. No statistically significant correlation found.
+
+---
+
+**Conclusion:**  
+In the USA, increasing public transport share is significantly associated with lower emissions per public vehicle.
+
+
+
 
 
 
