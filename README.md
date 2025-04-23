@@ -174,32 +174,46 @@ This project isn’t just about analyzing emissions from transportation; it’s 
 
 
 ---
+
+
+### Exploratory data analysis 
+There are two datasets for emissions as EU27 and USA:
+
+**For EU27:**
+1. Filtering data sets for 1.A.3.b - Road Transportation.
+2. Handling missing values by elimination.
+3. Eliminating unecessary information.
+4. Visualisation of the data.
+
+**For USA:**
+1. Handling missing values by elimination.
+2. Eliminating unecessary information.
+3. Visualisation of the data.
+
+   ![image](https://github.com/user-attachments/assets/ed6e6262-df7a-497f-bb91-a600d1215e59)
+
+
+
+
 ### 🧪 Hypothesis Test Report
 
 **Hypothesis:**
-- H₀: No correlation between public transport ratio and emissions per public vehicle.
-- H₁: Significant correlation exists.
+- H₀: There is not correlation between public transport ratio and emissions per public vehicle.
+- H₁: There is correlation between public transport ratio and emissions per public vehicle.
 
 **Significance Level:** α = 0.05
 
 ---
 
-**USA (United States):**
-- Pearson r = -0.42, p = 0.017
-- Spearman ρ = -0.40, p = 0.021 
-→ H₀ is rejected. Significant negative relationship observed.
+**USA:**
+**Pearson r** = -0.25, p = 0.168 → Fail to Reject H₀
+**Spearman ρ** = -0.35, p = 0.048 → Reject H₀
 
 **EU27:**
-- Pearson r = -0.19, p = 0.31 
-- Spearman ρ = -0.16, p = 0.39
-→ H₀ is not rejected. No statistically significant correlation found.
+**Pearson r** = -0.06, p = 0.738 → Fail to Reject H₀
+**Spearman ρ** = -0.03, p = 0.849 → Fail to Reject H₀
 
----
-
-**Conclusion:**  
-In the USA, increasing public transport share is significantly associated with lower emissions per public vehicle.
-
-
+**Conclusion:** There is a statistically significant negative monotonic relationship between public transport ratio and CO₂ emissions per public vehicle in the USA (Spearman test only). No significant relationship exists for EU27.
 
 
 
