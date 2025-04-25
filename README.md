@@ -195,41 +195,42 @@ There are two datasets for emissions as EU27 and USA:
 
 ---
 
-**Emissions by Country Bar Chart**
 
-To show EU27 countries emission distribution between 1990-2022:
+**Emissions by Country Bar Chart:**
+
+- To show EU27 countries emission distribution between 1990-2022:
 
    ![image](https://github.com/user-attachments/assets/ed6e6262-df7a-497f-bb91-a600d1215e59)
 
 ---
 
-**Histogram of Gross Total Emissions**
+**Histogram of Gross Total Emissions:**
 
-To show frequency of USA's Emissions:
+- To show frequency of USA's Emissions:
 
 ![image](https://github.com/user-attachments/assets/01be07f0-e751-4fd0-9eef-25ae69025a5c)
 
 ---
 
-**EU-27 vs USA Total Transportation Emissions by Line Plot(1990–2022)**
+**EU-27 vs USA Total Transportation Emissions by Line Plot (1990–2022):**
 
-To show USA and EU27 Emission Differences:
+- To show USA and EU27 emission differences:
 
 ![image](https://github.com/user-attachments/assets/c3f6ec07-4f34-4d0d-ba9e-e06c9b7885fe)
 
 ---
 
-**EU27 Scatter Plot**
+**EU27 Scatter Plot:**
 
-To show correlation between CO2 Emission and Public Transportation:
+- To show correlation between CO2 Emission and Public Transportation:
 
 ![image](https://github.com/user-attachments/assets/2cd53c4d-a54c-43aa-bb7b-f2e48ff616ce)
 
 ---
 
-**USA Scatter Plot**
+**USA Scatter Plot:**
 
-To show correlation between CO2 Emission and Public Transportation:
+- To show correlation between CO2 Emission and Public Transportation:
 
 ![image](https://github.com/user-attachments/assets/754972d8-bb2d-4530-b960-c421059449b4)
 
