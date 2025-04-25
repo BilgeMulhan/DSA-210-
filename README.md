@@ -236,7 +236,7 @@ There are two datasets for emissions as EU27 and USA:
 
 ---
 
-### 🧪 Hypothesis Test Report
+### Hypothesis Test Report:
 
 **Hypothesis:**
 - H₀: There is not correlation between public transport ratio and emissions per public vehicle.
@@ -254,8 +254,9 @@ There are two datasets for emissions as EU27 and USA:
 **Pearson r** = -0.06, p = 0.738 → Fail to Reject H₀
 **Spearman ρ** = -0.03, p = 0.849 → Fail to Reject H₀
 
-**Conclusion:** There is a statistically significant negative monotonic relationship between public transport ratio and CO₂ emissions per public vehicle in the USA (Spearman test only). No significant relationship exists for EU27.
+---
 
+**Conclusion:** There is a statistically significant negative monotonic relationship between public transport ratio and CO₂ emissions per public vehicle in the USA (Spearman test only). No significant relationship exists for EU27.
 
   
 This project isn’t just about analyzing emissions from cosmetics; it’s about leveraging data science to gain a deeper understanding of environmental sustainability. Whether in the beauty industry or other sectors, data-driven insights can help shape more responsible production and consumption habits to mitigate climate change.
