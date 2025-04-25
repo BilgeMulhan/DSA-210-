@@ -259,6 +259,6 @@ There are two datasets for emissions as EU27 and USA:
 **Conclusion:** There is a statistically significant negative monotonic relationship between public transport ratio and CO₂ emissions per public vehicle in the USA (Spearman test only). No significant relationship exists for EU27.
 
   
-This project isn’t just about analyzing emissions from cosmetics; it’s about leveraging data science to gain a deeper understanding of environmental sustainability. Whether in the beauty industry or other sectors, data-driven insights can help shape more responsible production and consumption habits to mitigate climate change.
+This project is about leveraging data science to gain a deeper understanding of environmental sustainability. Whether in the transportation sector or other sectors, data-driven insights can help shape more responsible production and consumption habits to mitigate climate change.By using these data sources and results, raising awareness may play a crucial role on humanity and world.
 
 
