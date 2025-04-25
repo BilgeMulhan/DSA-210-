@@ -182,20 +182,20 @@ There are two datasets for emissions as EU27 and USA:
 **For EU27:**
 1. Filtering data sets for 1.A.3.b - Road Transportation.
 2. Handling missing values by elimination.
-3. Eliminating unecessary information.
+3. Eliminating unnecessary information.
 4. Visualisation of the data.
 5. Data enrichs with total vehicle numbers of EU27 in between 1990 and 2022, missing values handle by linear regression.
 
    
 **For USA:**
 1. Handling missing values by elimination.
-2. Eliminating unecessary information.
+2. Eliminating unnecessary information.
 3. Visualisation of the data.
 4. Data enrichs with total vehicle numbers of USA in between 1990 and 2022, missing values handle by linear regression.
 
    
 **Emissions by Country Bar Chart**
-To show EU27 countries emission distribuion between 1990-2022:
+To show EU27 countries emission distribution between 1990-2022:
 
    ![image](https://github.com/user-attachments/assets/ed6e6262-df7a-497f-bb91-a600d1215e59)
 
@@ -227,7 +227,7 @@ To show correlation between CO2 Emission and Public Transportation:
 
 **Hypothesis:**
 - H₀: There is not correlation between public transport ratio and emissions per public vehicle.
-- H₁: There is correlation between public transport ratio and emissions per public vehicle.
+- H₁: There is a correlation between public transport ratio and emissions per public vehicle.
 
 **Significance Level:** α = 0.05
 
@@ -242,18 +242,6 @@ To show correlation between CO2 Emission and Public Transportation:
 **Spearman ρ** = -0.03, p = 0.849 → Fail to Reject H₀
 
 **Conclusion:** There is a statistically significant negative monotonic relationship between public transport ratio and CO₂ emissions per public vehicle in the USA (Spearman test only). No significant relationship exists for EU27.
-
-
-
-
-
-
-
-
-
-
-
-
 
 
   
