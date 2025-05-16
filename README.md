@@ -262,6 +262,8 @@ There are two datasets for emissions as EU27 and USA:
 This project is about leveraging data science to gain a deeper understanding of environmental sustainability. Whether in the transportation sector or other sectors, data-driven insights can help shape more responsible consumption habits to mitigate climate change. By using these data sources and results, raising awareness may play a crucial role on humanity and world.
 
 
+---
+
 
 **Machine Learning Model Applications**
 
