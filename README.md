@@ -262,3 +262,52 @@ There are two datasets for emissions as EU27 and USA:
 This project is about leveraging data science to gain a deeper understanding of environmental sustainability. Whether in the transportation sector or other sectors, data-driven insights can help shape more responsible consumption habits to mitigate climate change. By using these data sources and results, raising awareness may play a crucial role on humanity and world.
 
 
+
+**Machine Learning Model Applications**
+
+**Peredictions**
+**1) Linear Regression of USA between 2023-2033**
+- To show at what rate emissions increase:
+  
+  Linear Regression Parameters:
+  Slope (coefficient for 'Year'): 5960.6871
+  Intercept: -10173338.3961
+
+For this graph:
+  ![image](https://github.com/user-attachments/assets/2c6a6acd-585e-410a-9e1a-c5352b7e9f90) 
+
+
+  **2) Linear Regression of EU27 between 2023-2033**
+  - To show at what rate emissions increase:
+
+    Linear Regression Parameters:
+    Slope (coefficient for 'Year'): 6795.9427
+    Intercept: -12161791.4195
+
+For this graph:
+  ![image](https://github.com/user-attachments/assets/2a9a3c37-7dd3-4265-b62c-f754a9e99026)
+
+**Categorisation**
+
+**1) Logistic Regression Model**
+- To make classification by using individual and public transportation emissions to predict which country is responsible:
+
+  Logistic Regression Parameters
+  Coefficient for 'emissions': 0.0000
+  Coefficient for 'Individual': 0.1972
+  Coefficient for 'Public': -1.3334
+  Intercept: -0.0321
+
+- As we see that "Coefficient for 'emissions" is 0 so this means that this does not give a data to seperate US and EU Eemissions.
+  
+- Label Encoder:To transform catgeorical data to numerical data for prediction:
+  EU27 → 0
+  USA → 1
+
+-Confusion Matrix: To use evaluate logistic regression model's performance:
+![image](https://github.com/user-attachments/assets/d5bba4f9-c33c-43c9-8225-15361d20658d)
+
+
+**Random Forest Regressor**
+- By using Country, Sector_code, Pollutant_name datas, predict country's emission datas:
+  
