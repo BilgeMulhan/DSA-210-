@@ -268,11 +268,14 @@ This project is about leveraging data science to gain a deeper understanding of 
 **Machine Learning Model Applications**
 
 **Peredictions**
+
 **1) Linear Regression of USA between 2023-2033**
 - To show at what rate emissions increase:
   
   Linear Regression Parameters:
+  
   Slope (coefficient for 'Year'): 5960.6871
+  
   Intercept: -10173338.3961
 
 For this graph:
@@ -280,10 +283,13 @@ For this graph:
 
 
   **2) Linear Regression of EU27 between 2023-2033**
+  
   - To show at what rate emissions increase:
 
     Linear Regression Parameters:
+    
     Slope (coefficient for 'Year'): 6795.9427
+    
     Intercept: -12161791.4195
 
 For this graph:
@@ -292,18 +298,25 @@ For this graph:
 **Categorisation**
 
 **1) Logistic Regression Model**
+
 - To make classification by using individual and public transportation emissions to predict which country is responsible:
 
-  Logistic Regression Parameters
+  Logistic Regression Parameters:
+  
   Coefficient for 'emissions': 0.0000
+  
   Coefficient for 'Individual': 0.1972
+  
   Coefficient for 'Public': -1.3334
+  
   Intercept: -0.0321
 
 - As we see that "Coefficient for 'emissions" is 0 so this means that this does not give a data to seperate US and EU Eemissions.
   
 - Label Encoder:To transform catgeorical data to numerical data for prediction:
+  
   EU27 → 0
+  
   USA → 1
 
 -Confusion Matrix: To use evaluate logistic regression model's performance:
@@ -311,5 +324,6 @@ For this graph:
 
 
 **Random Forest Regressor**
+
 - By using Country, Sector_code, Pollutant_name datas, predict country's emission datas:
   
