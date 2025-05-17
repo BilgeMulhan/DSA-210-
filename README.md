@@ -326,4 +326,9 @@ For this graph:
 **Random Forest Regressor**
 
 - By using Country, Sector_code, Pollutant_name datas, predict country's emission datas:
-  
+
+  According to the feature importance results of the Random Forest Regressor model, public spending has the highest importance score, indicating that it plays the most significant role in the model’s emission predictions. Individual spending also contributes notably, suggesting a meaningful impact from personal behavioral patterns. In contrast, previous emissions have a relatively lower influence on the model's predictions. This may indicate that current emissions are shaped more by socioeconomic and public sector activities rather than historical emission levels alone.
+
+Thanks to the non-linear learning capability of the Random Forest algorithm, the model effectively captures complex relationships between variables. Moreover, the risk of overfitting is low, since the model aggregates the results of many decision trees, each trained on different subsets of the data, thereby enhancing generalization performance.
+
+
