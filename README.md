@@ -327,8 +327,14 @@ For this graph:
 
 - By using Country, Sector_code, Pollutant_name datas, predict country's emission datas:
 
-  According to the feature importance results of the Random Forest Regressor model, public spending has the highest importance score, indicating that it plays the most significant role in the model’s emission predictions. Individual spending also contributes notably, suggesting a meaningful impact from personal behavioral patterns. In contrast, previous emissions have a relatively lower influence on the model's predictions. This may indicate that current emissions are shaped more by socioeconomic and public sector activities rather than historical emission levels alone.
+Mean Squared Error: 238471756.215
 
-Thanks to the non-linear learning capability of the Random Forest algorithm, the model effectively captures complex relationships between variables. Moreover, the risk of overfitting is low, since the model aggregates the results of many decision trees, each trained on different subsets of the data, thereby enhancing generalization performance.
+- Mean squared errror is very high. This migh mean that selected features such as country, sector_code might not give enough information. We can increse feature amount to analyze better. 
+- Due to these reasons, Random Forest Regression Model was not successfull to gain clear prediction.
 
+**Parameter Series:**
+{'bootstrap': True, 'ccp_alpha': 0.0, 'criterion': 'squared_error', 'max_depth': None, 'max_features': 1.0, 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'monotonic_cst': None, 'n_estimators': 100, 'n_jobs': None, 'oob_score': False, 'random_state': 42, 'verbose': 0, 'warm_start': False}
+
+- criterion: squared_error: our model minimized squared _error
+- max_depth: None: our model might be overfitted to the train set
 
