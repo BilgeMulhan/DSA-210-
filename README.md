@@ -270,6 +270,7 @@ This project is about leveraging data science to gain a deeper understanding of 
 **Peredictions**
 
 **1) Linear Regression of USA between 2023-2033**
+
 - To show at what rate emissions increase:
   
   Linear Regression Parameters:
@@ -279,6 +280,7 @@ This project is about leveraging data science to gain a deeper understanding of 
   Intercept: -10173338.3961
 
 For this graph:
+
   ![image](https://github.com/user-attachments/assets/2c6a6acd-585e-410a-9e1a-c5352b7e9f90) 
 
 
@@ -293,6 +295,7 @@ For this graph:
     Intercept: -12161791.4195
 
 For this graph:
+
   ![image](https://github.com/user-attachments/assets/2a9a3c37-7dd3-4265-b62c-f754a9e99026)
 
 **Categorisation**
@@ -320,6 +323,7 @@ For this graph:
   USA → 1
 
 -Confusion Matrix: To use evaluate logistic regression model's performance:
+
 ![image](https://github.com/user-attachments/assets/d5bba4f9-c33c-43c9-8225-15361d20658d)
 
 
@@ -329,7 +333,8 @@ For this graph:
 
 Mean Squared Error: 238471756.215
 
-- Mean squared errror is very high. This migh mean that selected features such as country, sector_code might not give enough information. We can increse feature amount to analyze better. 
+- Mean squared errror is very high. This migh mean that selected features such as country, sector_code might not give enough information. We can increse feature amount to analyze better.
+  
 - Due to these reasons, Random Forest Regression Model was not successfull to gain clear prediction.
 
 **Parameter Series:**
